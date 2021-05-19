@@ -1,6 +1,6 @@
 # React で GoogleAnalytics の設定をする【UA, GA4 対応版】のサンプルコード
 
-記事のサンプルコード
+[記事](https://zenn.dev/mamezou/articles/4d0d7b79b639d5)のサンプルコード
 
 ## 状態
 
